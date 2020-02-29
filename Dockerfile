@@ -22,6 +22,7 @@ RUN git clone https://github.com/modern-fortran/tsunami
 RUN git clone https://github.com/modern-fortran/stock-prices
 RUN git clone https://github.com/modern-fortran/weather-buoys
 RUN git clone https://github.com/modern-fortran/generic-procedures
+RUN git clone https://github.com/modern-fortran/countdown
 RUN git clone https://github.com/modern-fortran/tcp-client-server
 RUN git clone https://github.com/modern-fortran/listings
 
